@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+<body>
 
-You can use the [editor on GitHub](https://github.com/281Confidence/281Confidence.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  <header>
+    <div class="container">
+      <h1>Mh108.github.io</h1>
+      <h2></h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      <section id="downloads">
+        <a href="https://github.com/mh108" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+      </section>
+    </div>
+  </header>
 
-### Markdown
+  <div class="container">
+    <section id="main_content">
+      <h2>Demo CIT Code Portfolio Page</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <img src="images/under-construction-sm.png" style="margin:.2em; padding:.2em; border: thin solid; display:block;">
 
-```markdown
-Syntax highlighted code block
+      <h2><br>education.github.com</h2>
+      <p>We are using <a href="https://education.github.com/">Github's education service</a> to host student repos for webDev courses.</p>
 
-# Header 1
-## Header 2
-### Header 3
+      <h2>UO CIT Minor</h2>
+      <p>The computer science department offers a Computer and Information Technology (CIT) minor, which emphasizes open-source technology and computing skills such as web development, networks, database programming and cloud computing. <a href="http://www.cs.uoregon.edu/Education/CIT_Minor.php">Read more  about the CIT minor at cs.uoregon.edu</a>.</p>
 
-- Bulleted
-- List
+      <h2>What the CIT Minor is About</h2>
+      <p>From logical thought to programming, database concepts to website architecture, information privacy and security to networking and multimedia, the CIT minor is designed to help you understand how Information and Web technologies can be used to transform information in your own field of study.</p>
 
-1. Numbered
-2. List
+      <p>The CIT minor uses open-source web technologies, networks, databases and cloud-computing to create, store, transmit and publish content on the world wide web, and cloud servers.</p>
 
-**Bold** and _Italic_ and `Code` text
+      <p> In the first year of the minor students learn IT concepts (such as networks, databases, and the WWW), and become skilled in using both basic and advanced web technologies (HTML5, CSS, JavaScript, AJAX, jQuery, React, etc.).</p>
+      <p>In the second year of the minor, students study the following topics: database design, webDev frameworks,
+        computer networks & cyber-security.</p>
 
-[Link](url) and ![Image](src)
-```
+      <h2>CIT Courses & Content</h2>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+      <ul>
+        <li>CIS 110: IT concepts, HTML & CSS</li>
+        <li>CIS 111: WebDev w/JavaScipt (ES6)</li>
+        <li>CIT 281: Unix Shell; Git & Github; jQuery; AJAX (fetch & promises); Node & Express; ES6 Classes & Super; React; Github Pages </li>
+        <li>CIT 381: Relational Databases</li>
+        <li>CIT 382: WebDev Frameworks (Meteor & React)</li>
+        <li>CIT 383: Networks & CyberSecurity</li>
+      </ul>
 
-### Jekyll Themes
+      <h2>My CIT Projects</h2>
+      <ul>
+        <li><a href="http://pages.uoregon.edu/michaelh/110/">CIS 110 Projects</a> (uoregon.edu)</li>
+        <li><a href="http://pages.uoregon.edu/michaelh/111/">CIS 111 Projects</a> (uoregon.edu)</li>
+        <li>CIT 281 Projects
+          <ul>
+            <li>P1 Project Page (Github)</li>
+            <li>P2 Project Page (Github)</li>
+            <li>P3 Project Page (Github)</li>
+            <li><a href="https://uo-cit.github.io/project-4-michaelh-uo/">P4 Project Page</a> (Github)</li>
+            <li>P5 Project Page (Github)</li>
+          </ul>
+        </li>
+        <li>CIT 381 Projects</li>
+        <li>CIT 382 Projects</li>
+        <li>CIT 383 Projects</li>
+      </ul>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/281Confidence/281Confidence.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+      <h2>&nbsp;</h2>
+      <p>&nbsp;</p>
 
-### Support or Contact
+    </section>
+  </div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+
+</html>
