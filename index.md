@@ -45,14 +45,14 @@
 
       <h2>My CIT Projects</h2>
       <ul>
-        <li><a href="http://pages.uoregon.edu/michaelh/110/">CIS 110 Projects</a> (uoregon.edu)</li>
-        <li><a href="http://pages.uoregon.edu/michaelh/111/">CIS 111 Projects</a> (uoregon.edu)</li>
+        <li><a href="http://pages.uoregon.edu/cjohnst5/110/">CIS 110 Projects</a> (uoregon.edu)</li>
+        <li><a href="http://pages.uoregon.edu/cjohnst5/111/">CIS 111 Projects</a> (uoregon.edu)</li>
         <li>CIT 281 Projects
           <ul>
             <li>P1 Project Page (Github)</li>
             <li>P2 Project Page (Github)</li>
             <li>P3 Project Page (Github)</li>
-            <li><a href="https://uo-cit.github.io/project-4-michaelh-uo/">P4 Project Page</a> (Github)</li>
+            <li><a href="https://uo-cit.github.io/project-4-281Confidence-uo/">P4 Project Page</a> (Github)</li>
             <li>P5 Project Page (Github)</li>
           </ul>
         </li>
