@@ -52,7 +52,7 @@
             <li>P1 Project Page (Github)</li>
             <li>P2 Project Page (Github)</li>
             <li>P3 Project Page (Github)</li>
-            <li><a href="https://github.com/UO-CIT/project-4-281Confidence">P4 Project Page</a> (Github)</li>
+            <li><a href="https://uo-cit.github.io/project-4-281Confidence/">P4 Project Page</a> (Github)</li>
             <li>P5 Project Page (Github)</li>
           </ul>
         </li>
