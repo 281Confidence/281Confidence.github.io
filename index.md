@@ -53,7 +53,7 @@
             <li>P2 Project Page (Github)</li>
             <li>P3 Project Page (Github)</li>
             <li><a href="https://uo-cit.github.io/project-4-281Confidence/">P4 Project Page</a> (Github)</li>
-            <li>P5 Project Page (Github)</li>
+            <li><a href="https://uo-cit.github.io/project-5-281Confidence/">P5 Project Page</a> (Github)</li>
           </ul>
         </li>
         <li>CIT 381 Projects</li>
