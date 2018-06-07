@@ -6,7 +6,7 @@
       <h2></h2>
 
       <section id="downloads">
-        <a href="https://github.com/mh108" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        <a href="https://github.com/281Confidence" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
       </section>
     </div>
   </header>
